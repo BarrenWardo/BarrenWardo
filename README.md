@@ -9,7 +9,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=BarrenWardo&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/barrenwardo) 
