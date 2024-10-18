@@ -19,3 +19,4 @@
 <br/>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBarrenWardo&label=Visits&labelColor=%23dce775&countColor=%232ccce4&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBarrenWardo)
